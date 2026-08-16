@@ -348,15 +348,17 @@ Building software projects across programming, full-stack development, automatio
 
 ---
 
+---
+
 ## CONTRIBUTION SNAKE
 
 <div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishKumar/AshishKumar/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshishKumar/AshishKumar/output/github-contribution-grid-snake.svg">
-<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AshishKumar/AshishKumar/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img
+  src="https://raw.githubusercontent.com/krshriraunak/krshriraunak/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Purple GitHub Contribution Snake"
+/>
 
 </div>
 
